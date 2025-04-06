@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PaalAI - Web3 Customer Support Agent
+
+An AI-powered customer support agent for Web3 platforms that provides 24/7 assistance for blockchain, cryptocurrency, and DeFi questions.
+
+![PaalAI](https://via.placeholder.com/1200x630/0f172a/38bdf8?text=PaalAI+-+Web3+Support)
+
+## Features
+
+- 🤖 **AI-Powered Assistance**: Natural language understanding and generation for user queries
+- 🔗 **Web3 Integration**: Real-time blockchain data access for address lookups and gas prices
+- 📚 **Knowledge Base**: Built-in knowledge of common Web3 concepts, terms, and best practices
+- 🔒 **Security First**: Emphasis on educating users about security best practices
+- ⚡ **Real-time Responses**: Instant support without wait times
+- 🌐 **Multilingual Support**: Supports various languages via the underlying AI model
+- 💻 **Modern UI**: Clean, responsive interface built with Next.js and Tailwind CSS
+
+## Technologies Used
+
+- **Next.js 14**: React framework for the frontend and API routes
+- **TypeScript**: For type-safe code
+- **Tailwind CSS & DaisyUI**: For styling and UI components
+- **OpenAI API**: For natural language processing
+- **Ethers.js**: For blockchain interaction
+- **Web3.js**: For additional Web3 functionality
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Node.js 18.x or higher
+- NPM or Yarn
+- OpenAI API key
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/paal-ai.git
+   cd paal-ai
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-## Learn More
+3. Create a `.env.local` file in the root directory and add your OpenAI API key:
+   ```
+   OPENAI_API_KEY=your_api_key_here
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Usage
 
-## Deploy on Vercel
+1. Type your Web3-related question in the chat interface
+2. The AI will respond with helpful information based on its knowledge base
+3. For queries about specific Ethereum addresses or gas prices, the AI can pull real-time data from the blockchain
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Future Enhancements
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Wallet integration for personalized support
+- Support for more blockchain networks
+- Community-driven knowledge base expansion
+- Integration with popular DeFi protocols for real-time assistance
+- Voice interface for accessibility
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- OpenAI for their powerful language models
+- The Next.js team for their amazing framework
+- The Web3 community for inspiration and support
