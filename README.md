@@ -1,4 +1,4 @@
-# PaalAI - Web3 Customer Support Agent
+# Web3_Master - Web3 Customer Support Agent
 
 An AI-powered customer support agent for Web3 platforms that provides 24/7 assistance for blockchain, cryptocurrency, and DeFi questions.
 
