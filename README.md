@@ -2,7 +2,6 @@
 
 An AI-powered customer support agent for Web3 platforms that provides 24/7 assistance for blockchain, cryptocurrency, and DeFi questions.
 
-![PaalAI](https://via.placeholder.com/1200x630/0f172a/38bdf8?text=PaalAI+-+Web3+Support)
 
 ## Features
 
