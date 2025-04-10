@@ -1,9 +1,9 @@
-# PaalAI - Web3 Customer Support Agent
+# Web3_Master - Web3 Customer Support Agent
 
 ## Hackathon Project Summary
 
 ### Project Overview
-PaalAI is a 24/7 automated customer support agent for Web3 platforms. It leverages artificial intelligence to understand and resolve user queries related to blockchain technology, cryptocurrencies, DeFi, NFTs, and other Web3 concepts.
+Web3_master is a 24/7 automated customer support agent for Web3 platforms. It leverages artificial intelligence to understand and resolve user queries related to blockchain technology, cryptocurrencies, DeFi, NFTs, and other Web3 concepts.
 
 ### Problem Statement
 Web3 platforms often struggle with providing timely, accurate customer support due to:
