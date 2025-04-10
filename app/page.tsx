@@ -35,7 +35,7 @@ export default function Home() {
 
       <footer className="w-full max-w-5xl mt-12 flex flex-col sm:flex-row items-center justify-between text-gray-400 text-sm">
         <div className="mb-4 sm:mb-0">
-          <p>© 2025 PaalAI - Powered by AI & Web3</p>
+          <p>© 2025 Web3 Master - Powered by AI & Web3</p>
         </div>
 
         <div className="flex flex-wrap gap-4 justify-center">
