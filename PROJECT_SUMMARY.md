@@ -13,7 +13,7 @@ Web3 platforms often struggle with providing timely, accurate customer support d
 - Rapidly evolving technology landscape
 
 ### Solution
-PaalAI addresses these challenges by providing:
+Web3_Master addresses these challenges by providing:
 - An AI-powered chat interface that can answer user questions instantly
 - Integration with real-time blockchain data for address lookups and gas prices
 - A comprehensive knowledge base of Web3 concepts and best practices
@@ -71,8 +71,4 @@ PaalAI stands out through:
 - Community-driven knowledge base expansion
 - Voice interface for accessibility
 
-### Team
-[Your team information here]
 
-### Demo
-[Link to live demo when available] 
