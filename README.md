@@ -34,8 +34,7 @@ An AI-powered customer support agent for Web3 platforms that provides 24/7 assis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/paal-ai.git
-   cd paal-ai
+   git clone https://github.com/Sorcerer785/Web3_Master.git
    ```
 
 2. Install dependencies:
